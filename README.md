@@ -12,7 +12,8 @@ Next stages:
 3. multiple classes / files in multiple windows
 4. some basic kind of syntax checker
 
-![image](https://github.com/miklos1125/javapad/assets/127934692/8a99634e-3b33-4a24-b898-a587174fad2d)
+![image](https://github.com/miklos1125/javapad/assets/127934692/4453451b-bb11-4f67-9322-dd645bf4b30f)
+
 
 
 
