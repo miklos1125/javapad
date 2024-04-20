@@ -4,7 +4,7 @@ This is a poor man's IDE. :)
 
 A simple text editor. You can load, save and edit java files, compile and run them.
 
-This is an experimenting project, ti will be always under construction...  
+This is an experimenting project, it will be always under construction...  
 
 Next stages:
 1. to have a proper console
