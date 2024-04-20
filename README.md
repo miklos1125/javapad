@@ -8,7 +8,7 @@ This is an experimenting project, ti will be always under construction...
 
 Next stages:
 1. to have a proper console
-2. 2. Main classname comparisson with Filename
+2. Classname comparisson with Filename
 3. multiple classes / files in multiple windows
 4. some basic kind of syntax checker
 
